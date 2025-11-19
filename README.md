@@ -1,1 +1,3 @@
+Little library that manages a stack data structure (INT or CHAR).
 
+I needed this for a school excercise so...
